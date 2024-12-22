@@ -1,0 +1,27 @@
+{
+    "title": "Tabbing Shortcuts",
+    "shortcuts": [
+        {"key": "Alt + Shift + Y", "description": "LAB X-RAY EKG"},
+        {"key": "Alt + Shift + X", "description": "MISCELLANEOUS"},
+        {"key": "Alt + Shift + T", "description": "THERAPY"},
+        {"key": "Alt + Shift + S", "description": "INSURANCE FORMS BILLING"},
+        {"key": "Alt + Shift + O", "description": "OFFICE VISITS TREATMENTS"},
+        {"key": "Alt + Shift + N", "description": "TABLE OF CONTENTS"},
+        {"key": "Alt + Shift + K", "description": "CONSULTATION"},
+        {"key": "Alt + Shift + I", "description": "RELEASE OF INFORMATION CORRESPONDENCE"},
+        {"key": "Alt + Shift + H", "description": "ER/CLINIC"},
+        {"key": "Alt + Shift + F", "description": "FETAL STRIPS"},
+        {"key": "Alt + Shift + D", "description": "ADMISSION DISCHARGE SUMMARY"},
+        {"key": "Alt + Shift + C", "description": "CONSULTATION CORRESPONDENCE"},
+        {"key": "Alt + Shift + 9", "description": "X-RAY EKG"},
+        {"key": "Alt + Shift + 8", "description": "MEDICATION"},
+        {"key": "Alt + Shift + 7", "description": "NURSES NOTES"},
+        {"key": "Alt + Shift + 6", "description": "PROGRESS"},
+        {"key": "Alt + Shift + 5", "description": "PHYSICIAN ORDERS"},
+        {"key": "Alt + Shift + 4", "description": "OPERATION"},
+        {"key": "Alt + Shift + 3", "description": "HISTORY PHYSICAL"},
+        {"key": "Alt + Shift + 2", "description": "ADMISSION DISCHARGE"},
+        {"key": "Alt + Shift + 1", "description": "ER/OUTPATIENT"},
+        {"key": "Alt + Shift + 0", "description": "LAB"}
+    ]
+}
